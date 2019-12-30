@@ -6,3 +6,7 @@
 texture = ExtResource( 1 )
 shadow_enabled = true
 shadow_color = Color( 0.0862745, 0.0823529, 0.0823529, 0 )
+__meta__ = {
+"_edit_horizontal_guides_": [  ],
+"_edit_vertical_guides_": [  ]
+}
